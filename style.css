@@ -118,6 +118,7 @@ header .nav-btn button:hover {
     align-items: center;
     width: 100%;             
     margin-top: 24px; 
+    gap: 20px;
 }
 
 .banner-btn .btn-1 {
