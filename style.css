@@ -166,3 +166,58 @@ header .nav-btn button:hover {
 .banner-btn .btn-1:hover {
     background-color: #59ab78;
 }
+#note{
+
+    padding-top: 130px;
+}
+#note .note-container{
+    width: 71%;
+    max-width: 1140px;
+    margin: 0px auto;
+    
+    
+}
+.note-container .note-heading{
+    text-align: center;
+    margin-bottom: 60px;
+}
+.note-heading h2{
+    font-size: 48px;
+font-weight: 700;
+color: #001931;
+}
+.note-container .note-heading p{
+    font-size: 16px;
+    color: #868383;
+    
+}
+
+#note .note-container .note-box{
+    display: flex;
+   gap: 24px;
+   margin-top: 20px;
+}
+.note-box .note-card{
+    
+    padding: 30px;
+    max-width: 267px;
+    box-shadow: 0px 6px 50px 0 #0000002f;
+
+   
+}
+.note-card img{
+    max-width: 44px;
+    margin-bottom: 30px;
+    background-color: #F95555;
+    align-items: center;
+}
+.note-card h3{
+    font-size: 20px;
+    color: #181818;
+    margin-bottom: 20px;
+}
+.note-card p{
+    font-size: 16px;
+    color: #474747;
+    line-height: 26px;
+}
